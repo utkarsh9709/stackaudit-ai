@@ -1,0 +1,3 @@
+# Architecture
+
+StackAudit AI documentation.
